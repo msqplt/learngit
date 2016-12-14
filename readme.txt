@@ -1,1 +1,2 @@
-This is my first git repository£¡
+git is a distributed version control system.
+git is free sofeware.
